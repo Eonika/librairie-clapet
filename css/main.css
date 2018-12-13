@@ -531,6 +531,9 @@ font-size: 1.8em;
   margin-top: 60px;
 }
 
+.small-title {
+  font-size: 50px;
+}
 
 .superchapo {
   color: black;
