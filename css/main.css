@@ -432,6 +432,7 @@ font-size: 1.8em;
 .news--main {
   padding-bottom: 35px;
   border-bottom: 1px solid #b0b0c5;
+  margin-bottom: 30px;
 }
 .news--main .news__link {
   display: flex;
@@ -528,4 +529,9 @@ font-size: 1.8em;
   text-align: center;
   margin-bottom: 75px;
   margin-top: 60px;
+}
+
+
+.superchapo {
+  color: black;
 }
