@@ -546,3 +546,12 @@ font-size: 1.8em;
 .superchapo {
   color: black;
 }
+
+.line1{
+  display:flex;
+  width:800px; 
+  margin:0 auto;
+}
+.line2{
+  
+}
