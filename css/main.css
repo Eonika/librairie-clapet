@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200i,300,500,600,700|Work+Sans:200,300,400');
 
 /**
 * -----------
@@ -6,11 +7,10 @@
 */
 
 body {
-  max-width: 960px;
   margin: auto;
   border-bottom: 5px solid #d9d9d9;
   padding-bottom: 75px;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:"Work Sans", Helvetica, Arial, sans-serif; 
   font-weight: 400;
   color: #303044;
 }
@@ -18,6 +18,7 @@ body {
 p, li, td, th, textarea, caption, pre, blockquote, label, input, select, textarea {
   font-size: 1.4em;
   line-height: 1.4;
+  margin: 0;
 }
 
 li {
@@ -40,14 +41,17 @@ h1 {
 
 h2 {
   margin: 25px 0;
-  font-size: 3.5em;
+  font-size: 6.4em;
   font-weight: 200;
 }
 
 h3 {
   margin: 25px 0;
-  font-size: 2.6em;
-  font-weight: 200;
+  font-size: 3.4em;
+  margin: 0 0 15px;
+  font-weight: bold;
+  line-height: 1.4;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
 }
 
 h4 {
@@ -66,7 +70,7 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
   line-height: 1;
 }
 
@@ -93,7 +97,7 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 960px;
+  width: 144Ppx;
   max-width: 100%;
 }
 
@@ -159,6 +163,12 @@ button {
   display: block;
   color: inherit;
 }
+
+.link-block-grand {
+  display: flex;
+  color: inherit;
+}
+
 .link-block:hover {
   text-decoration: none;
 }
@@ -196,13 +206,22 @@ button {
 }
 
 .chapo {
-  font-size: 1.6em;
+  font-size: 2.5em;
+  text-align: center;
+  margin: 5em;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-bottom: 100px;
+  margin-left: auto;
+  height: 145px;
+  width: 960px;
+}
 }
 
 .full-width {
   display: block;
-  width: 100%;
-  margin: 50px auto;
+  width: 960px auto;
+  
 }
 
 
@@ -218,12 +237,9 @@ button {
 */
 .header {
   position: relative;
-  margin-right: auto;
-  margin-left: auto;
   margin-bottom: 35px;
-  width: 960px;
-  height: 350px;
-  background: url("../img/header-bg.jpeg");
+  height: 463px;
+  background: url("../img/header-bg.jpg");
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
@@ -249,8 +265,9 @@ button {
 }
 
 .header__title {
-  font-size: 5.4em;
+  font-size: 6.4em;
   margin: 0;
+  margin-bottom: 75px;
 }
 
 .header__subtitle {
@@ -262,7 +279,11 @@ button {
 
 
 .header__nav {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgb(0, 0, 0);
+text-align: center;
+font-weight: 200;
+font-size: 1.8em;
+
 }
 
 .nav-main__item {
@@ -273,6 +294,7 @@ button {
   display: block;
   padding: 10px;
   color: #fff;
+
 }
 .nav-main__link:hover {
   text-decoration: none;
@@ -283,13 +305,15 @@ button {
 /**
 * separator
 */
-.separator {
+.separator { 
   display: block;
-  margin: 50px auto;
-  width: 200px;
-  height: 1px;
+  margin-top: 60px;
+  marginbottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 52px;
   border: none;
-  background-color: #d9d9d9;
+
 }
 
 
@@ -299,6 +323,8 @@ button {
 
 .honey-pot-list {
   text-align: center;
+  display: flex;
+  justify-content: space-around;
 }
 
 .honey-pot {
@@ -331,13 +357,14 @@ button {
 
 .honey-pot__title {
   margin: 0;
-  font-size: 2em;
-  font-weight: bold;
+  font-size: 2.6em;
+  font-family: 'Montserrat';
+  font-weight: 600;
 }
 
 .honey-pot__subtitle {
   margin: 0;
-  font-size: 1.6em;
+  font-size: 2.2em;
   font-weight: 200;
 }
 
@@ -351,7 +378,7 @@ button {
   color: #d86324;
 }
 
-.news__link:hover .news__thumbnail {
+.news_link:hover .news_thumbnail {
   -webkit-filter: grayscale(60%);
   filter: grayscale(60%);
   -webkit-transition-delay: 0ms;
@@ -376,16 +403,22 @@ button {
   color: #e8a27d;
 }
 
+.news__date-grand {
+  margin: 0;
+  font-size: 1.8em;
+  color: #e8a27d;
+}
+
 .news__title {
   margin: 0 0 15px;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 3.4em;
   line-height: 1.4;
 }
 
 .news__text {
   margin: 0;
-  font-size: 1.4em;
+  font-size: 2.4em;
   line-height: 1.4;
 }
 
@@ -407,7 +440,7 @@ button {
 .news--main .news__thumbnail {
   margin-bottom: 0;
   margin-right: 40px;
-  min-width: 360px;
+  min-width: 481px;
 }
 
 /**
@@ -427,6 +460,12 @@ button {
 
 .news-list__news {
   grid-column: span 1;
+}
+
+.news-list__news-grand {
+    grid-column: span 3;
+
+
 }
 
 /**
@@ -459,7 +498,21 @@ button {
   font-size: 3.2em;
   font-weight: 200;
 }
+.actu-list {
+  display: grid;
+  grid-gap: 35px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin-bottom: 35px;
+}
 
+.actu-list .actu-list__news--4 {
+  grid-column: span 4;
+}
+
+.actu-list__news {
+  grid-column: span 1;
+}
 
 /**
 * decouvrez-notre-librairie
@@ -473,5 +526,6 @@ button {
 */
 .index-title {
   text-align: center;
-  margin-bottom: 35px;
+  margin-bottom: 75px;
+  margin-top: 60px;
 }
