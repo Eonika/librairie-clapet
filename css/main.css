@@ -97,7 +97,7 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 144Ppx;
+  width: 1440Ppx;
   max-width: 100%;
 }
 
@@ -431,6 +431,8 @@ font-size: 1.8em;
 
 .news--main {
   padding-bottom: 35px;
+  padding-left: 120px;
+  padding-right : 120Px;
   border-bottom: 1px solid #b0b0c5;
   margin-bottom: 30px;
 }
@@ -453,6 +455,9 @@ font-size: 1.8em;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  text-align: center;
+  padding-left: 120px;
+  padding-right: 120px;
 }
 
 .news-list .news-list__news--main {
@@ -502,6 +507,9 @@ font-size: 1.8em;
 .actu-list {
   display: grid;
   grid-gap: 35px;
+
+
+
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
