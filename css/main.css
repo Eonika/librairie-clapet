@@ -460,6 +460,10 @@ font-size: 1.8em;
   padding-right: 120px;
 }
 
+.grande-liste {
+  grid-template-columns: repeat(4, 1fr);
+}
+
 .news-list .news-list__news--main {
   grid-column: span 3;
 }
@@ -608,7 +612,7 @@ font-size: 1.8em;
   margin-right: 40px;
 }
 
-.chapo2{
+.chapo{
   width: 600px;
   height: 87px;
   margin-top: -8px;
