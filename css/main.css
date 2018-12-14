@@ -493,16 +493,29 @@ font-size: 1.8em;
 }
 
 .page-single__title {
-  margin: 0;
-  font-size: 5.6em;
-  line-height: 1.4;
-  font-weight: 500;
+  width: 1201px;
+  height: 68px;
+  font-family: 'Montserrat';
+  font-size: 56px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #1a1a1a;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page-single__subtitle {
   margin: 0;
-  font-size: 3.2em;
+  font-size: 32px;
   font-weight: 200;
+  font-family: 'Montserrat';
+  margin-left: auto;
+  margin-right: auto;
+  height: 39px;
+  width: 1201px;
 }
 .actu-list {
   display: grid;
