@@ -460,6 +460,9 @@ font-size: 1.8em;
   padding-right: 120px;
 }
 
+.news--main {
+  grid-column: span 4;
+}
 .grande-liste {
   grid-template-columns: repeat(4, 1fr);
 }
@@ -478,6 +481,9 @@ font-size: 1.8em;
 
 }
 
+.news-oki{
+  grid-column: span 2;
+}
 /**
 * -----------
 * Trumps
