@@ -12,10 +12,10 @@
 - **Nom :** Fivemarch Studio
 - **Instagram :** @fivemarch.studio
 - **Site :** fivemarch.studio
-- **Ce que fait le studio, en une phrase :** **À COMPLÉTER**
-- **À qui je parle :** **À COMPLÉTER** (précis : « restaurateurs indépendants
-  qui n'ont pas de site », pas « les entreprises »)
-- **Ce que je vends :** **À COMPLÉTER**
+- **Ce que fait le studio, en une phrase :** studio floral de décoration de mariage.
+- **À qui je parle :** **À COMPLÉTER** (probablement des couples qui préparent leur mariage ;
+  à préciser : région, style, budget, wedding planners ?)
+- **Ce que je vends :** décoration florale de mariage. **À PRÉCISER** (bouquets, arches, centres de table, scénographie complète ? zone géographique ? fourchette de budget ?)
 
 ## Comment je parle
 
