@@ -13,21 +13,26 @@
 - **Instagram :** @fivemarch.studio
 - **Site :** fivemarch.studio
 - **Ce que fait le studio, en une phrase :** studio floral de décoration de mariage.
-- **À qui je parle :** **À COMPLÉTER** (probablement des couples qui préparent leur mariage ;
-  à préciser : région, style, budget, wedding planners ?)
-- **Ce que je vends :** décoration florale de mariage. **À PRÉCISER** (bouquets, arches, centres de table, scénographie complète ? zone géographique ? fourchette de budget ?)
+- **À qui je parle :** les couples qui préparent leur mariage et les wedding planners.
+  Surtout en Île-de-France, parfois partout en France, et des clients
+  étrangers anglophones (Canada, Berlin, USA).
+- **Ce que je vends :** la scénographie complète du lieu et les fleurs.
+- **Style :** très moderne, actuel, original. Pas champêtre, pas classique.
 
 ## Comment je parle
 
-- **Langue :** français
+- **Langue :** français. Une partie des clients est anglophone : légende
+  bilingue FR/EN, ou texte à l'écran en anglais, à décider post par post.
 - **Tu ou vous :** **À COMPLÉTER**
 - **À l'écran je suis :** **À COMPLÉTER** (énergique / posé / pince-sans-rire / drôle)
 - **Mots que j'utilise vraiment :** **À COMPLÉTER**
 - **Mots que je ne dirais jamais :** **À COMPLÉTER**
 - **Jurons :** **À COMPLÉTER** (oui / légers / non)
 - **Emoji en légende :** **À COMPLÉTER** (jamais / un, rarement / librement)
-- **Visage à l'écran :** **À COMPLÉTER** (toujours / parfois / jamais)
-- **Voix off ou face caméra :** **À COMPLÉTER**
+- **Visage à l'écran :** rarement. On montre le travail : les mains, les fleurs,
+  le montage, le lieu avant/après.
+- **Voix off ou face caméra :** pas de face caméra. Voix off ou texte à l'écran
+  seulement (**À CONFIRMER** : voix off ou juste du texte ?).
 - **Débit :** inconnu ; `beats.py` utilise 165 mots/min par défaut.
 - **Trois Reels ou légendes qui me ressemblent :** **À COMPLÉTER** (à coller ici)
 
@@ -49,7 +54,10 @@ Trois à cinq choses que je pense et qu'une partie de mon audience ne pense pas.
 
 Projets, chiffres et résultats réels que je signe.
 
-- **À COMPLÉTER**
+- Environ 2000 tiges de fleurs pour un mariage, nettoyées une par une.
+- Clients jusqu'au Canada, à Berlin et aux USA.
+- **À COMPLÉTER** quand d'autres chiffres vrais se présentent (heures de montage,
+  nombre de mariages par saison, taille d'une installation...).
 
 ## L'appel à l'action
 
