@@ -23,7 +23,7 @@
 
 - **Langue :** français. Une partie des clients est anglophone : légende
   bilingue FR/EN, ou texte à l'écran en anglais, à décider post par post.
-- **Tu ou vous :** **À COMPLÉTER**
+- **Tu ou vous :** vous.
 - **À l'écran je suis :** **À COMPLÉTER** (énergique / posé / pince-sans-rire / drôle)
 - **Mots que j'utilise vraiment :** **À COMPLÉTER**
 - **Mots que je ne dirais jamais :** **À COMPLÉTER**
@@ -31,8 +31,9 @@
 - **Emoji en légende :** **À COMPLÉTER** (jamais / un, rarement / librement)
 - **Visage à l'écran :** rarement. On montre le travail : les mains, les fleurs,
   le montage, le lieu avant/après.
-- **Voix off ou face caméra :** pas de face caméra. Voix off ou texte à l'écran
-  seulement (**À CONFIRMER** : voix off ou juste du texte ?).
+- **Voix off ou face caméra :** jamais face caméra. Aujourd'hui : musique + texte
+  à l'écran. Objectif : passer à la voix off. Les scripts sont donc écrits pour
+  être dits en voix off, avec une version « texte seul » quand c'est utile.
 - **Débit :** inconnu ; `beats.py` utilise 165 mots/min par défaut.
 - **Trois Reels ou légendes qui me ressemblent :** **À COMPLÉTER** (à coller ici)
 
